@@ -8,13 +8,13 @@ All rights reserved.
 1. Definitions
 For the purposes of this License:
 
-      "Software" 	means the CatFox Genea software, including source code, object code, documentation, 
-		 	and any associated files.
-       "Author" 	means the original copyright holder.
-       "Modify"     	means to alter, adapt, translate, enhance, or create derivative works of the Software.
-     "Distribute" 	means to share, publish, provide, sublicense, transfer, or otherwise make the Software available to third parties, 
-	     	 	whether free of charge or for compensation.
-   "Commercial Use" 	means any use primarily intended for or directed toward commercial advantage or monetary compensation.
+"Software" 			means the CatFox Genea software, including source code, object code, documentation, 
+					and any associated files.
+"Author"			means the original copyright holder.
+"Modify"			means to alter, adapt, translate, enhance, or create derivative works of the Software.
+"Distribute"		means to share, publish, provide, sublicense, transfer, or otherwise make the Software available to third parties, 
+					whether free of charge or for compensation.
+"Commercial Use"	means any use primarily intended for or directed toward commercial advantage or monetary compensation.
 
 Commercial Use includes, but is not limited to:
 
@@ -72,5 +72,6 @@ INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PA
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 
